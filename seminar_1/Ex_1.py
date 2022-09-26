@@ -8,3 +8,4 @@ elif a == 6 or a == 7:
     print('Weekend')
 else:
     print("It's not a day of the week!")
+    
